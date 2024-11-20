@@ -1,5 +1,7 @@
 # python_POO
 
+Pasta contem os exercícios de python com PROGRAMAÇÃO ORIENTADA A OBJETOS
+
 Esta pasta contém exercícios práticos de POO em Python, abordando os principais conceitos desse paradigma. A POO organiza o código em torno de classes e objetos, promovendo reutilização e modularidade.
 
 Os conceitos trabalhados incluem:
